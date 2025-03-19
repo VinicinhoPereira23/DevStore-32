@@ -47,7 +47,7 @@
     flex: 1;
 }
 
-@media(width>1024){
+@media(width>1024px){
     .news-area{
         flex-direction: row;
     }
